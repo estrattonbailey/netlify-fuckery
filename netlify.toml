@@ -3,6 +3,6 @@
   publish = ".presta/static"
   # functions = ".presta/functions" # deprecated
 
-[functions]
-  directory = ".presta/functions"
-  node_bundler = 'esbuild'
+# [functions]
+#   directory = ".presta/functions"
+#   node_bundler = 'esbuild'
