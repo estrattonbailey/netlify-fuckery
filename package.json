@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hyposcript": "^1.0.4",
+    "nanoclass": "^0.0.2",
+    "presta": "^0.46.1"
+  },
+  "devDependencies": {
+    "@presta/adapter-netlify": "^0.6.0"
+  }
 }
