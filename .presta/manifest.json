@@ -1,0 +1,10 @@
+{
+  "statics": {},
+  "functions": {
+    "/Users/estrattonbailey/Sites/foh/presta/site/pages/Index.ts": {
+      "route": "*",
+      "src": "/Users/estrattonbailey/Sites/foh/presta/site/pages/Index.ts",
+      "dest": "/Users/estrattonbailey/Sites/foh/presta/site/.presta/functions/pages-Index-bg5xe.js"
+    }
+  }
+}
